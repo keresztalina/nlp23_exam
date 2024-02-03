@@ -1,0 +1,14 @@
+Chi-Square Value: 9.719335548172758
+P-value: 0.021108918610332365
+Degrees of Freedom: 3
+Observed Frequencies:
+n_neu   0      1    
+a_neu   0  1   0   1
+l_neu               
+0      12  0   3   0
+1      16  2  12  13
+Expected Frequencies:
+           0                   1          
+           0         1         0         1
+0   7.241379  0.517241   3.87931  3.362069
+1  20.758621  1.482759  11.12069  9.637931

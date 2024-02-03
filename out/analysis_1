@@ -1,0 +1,12 @@
+Chi-Square Value: 10.88161170143081
+P-value: 0.004335987703682456
+Degrees of Freedom: 2
+Observed Frequencies:
+label    0    1   2
+source             
+origo   49  175  17
+telex   32  255  23
+Expected Frequencies:
+               0           1          2
+origo  35.428312  188.076225  17.495463
+telex  45.571688  241.923775  22.504537
