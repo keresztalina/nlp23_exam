@@ -1,6 +1,6 @@
 # Final exam project for the NLP23 course
 ## About
-This repository contains the code associated with the exam project for the Natural Language Processing E23 course at the Cognitive Science MSc, Aarhus Universitet. For questions, please contact Alina Kereszt (202015328@post.au.dk).
+This repository contains the code associated with the exam project for the Natural Language Processing E23 course at the Cognitive Science MSc, Aarhus Universitet. For questions, please contact Alina Kereszt (202005328@post.au.dk).
 
 ## Structure
 The repository is structured in the following way:
