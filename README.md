@@ -25,11 +25,11 @@ This code was written and executed in the UCloud application's Coder Python inte
 
         pip install -r requirements.txt
 
-4. Ensure that you are in the correct directoy and run part 1 of the analysis:
+4. Ensure that you are in the correct directory and run part 1 of the analysis:
 
         python3 src/part_1.py
 
-5. Ensure that you are in the correct directoy and run part 2 of the analysis:
+5. Ensure that you are in the correct directory and run part 2 of the analysis:
 
         python3 src/part_2.py
 
